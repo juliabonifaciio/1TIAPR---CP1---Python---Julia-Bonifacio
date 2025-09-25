@@ -71,6 +71,7 @@ Clone o repositório:
 ```bash
 git clone https://github.com/seu-usuario/exercicios-condicionais-python.git
 cd exercicios-condicionais-python
+```
 
 Execute cada exercício:
 
@@ -78,3 +79,4 @@ Execute cada exercício:
 python ex01.py
 python ex02.py
 # ... e assim por diante
+```
